@@ -16,8 +16,8 @@ This repository showcases an in-depth qualitative research study examining the i
 Direct Link: [https://digitalcommons.usf.edu/etd/3352/](https://digitalcommons.usf.edu/etd/3352/)
 
 ### Quick Access Documents
-- [Research Abstract](https://github.com/mslawsky/qualitative-dissertation-research/blob/main/dissertation-abstract.pdf)
-- [Qualitative Findings](https://github.com/mslawsky/qualitative-dissertation-research/blob/main/qualitative-findings.pdf)
+- [Research Abstract (PDF)](https://github.com/mslawsky/qualitative-dissertation-research/raw/main/dissertation-abstract.pdf)
+- [Qualitative Findings (PDF)](https://github.com/mslawsky/qualitative-dissertation-research/raw/main/qualitative-findings.pdf)
 
 ## Thematic Analysis Framework
 
