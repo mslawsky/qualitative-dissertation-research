@@ -1,23 +1,23 @@
 # qualitative-dissertation-research
 A qualitative research study examining experiential learning and professional development through the lens of practice-based education.
 
-[![Qualitative Analysis](https://img.shields.io/badge/Research-Qualitative%20Analysis-blue)](https://github.com/your-username/your-repo)
-[![NVivo](https://img.shields.io/badge/Tools-NVivo-green)](https://github.com/your-username/your-repo)
-[![Interview Data](https://img.shields.io/badge/Data-40%20Hours%20Interviews-orange)](https://github.com/your-username/your-repo)
+[![Qualitative Analysis](https://img.shields.io/badge/Research-Qualitative%20Analysis-blue)](https://github.com/mslawsky/qualitative-dissertation-research)
+[![NVivo](https://img.shields.io/badge/Tools-NVivo-green)](https://github.com/mslawsky/qualitative-dissertation-research)
+[![Interview Data](https://img.shields.io/badge/Data-40%20Hours%20Interviews-orange)](https://github.com/mslawsky/qualitative-dissertation-research)
 [![Dissertation](https://img.shields.io/badge/Publication-University%20of%20South%20Florida-red)](https://digitalcommons.usf.edu/etd/3352/)
 
 ## Research Overview
 This repository showcases an in-depth qualitative research study examining the intersection of experiential learning, professional development, and identity formation in practice-based professional learning. Through systematic analysis of 40 hours of interview data, this study reveals key insights into how professionals develop expertise through various learning modalities including apprenticeship, cognitive apprenticeship, and autonomous learning.
 
 ## Published Research
-📚 **Full Dissertation**: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">Learning to Teach: Examining the Knowledge and Preparation of Successful Piano Teachers</a>  
+📚 **Full Dissertation**: [Learning to Teach: Examining the Knowledge and Preparation of Successful Piano Teachers](https://digitalcommons.usf.edu/etd/3352/){:target="_blank"}  
 *University of South Florida, USF Scholar Commons*
 
-Direct Link: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">https://digitalcommons.usf.edu/etd/3352/</a>
+Direct Link: [https://digitalcommons.usf.edu/etd/3352/](https://digitalcommons.usf.edu/etd/3352/){:target="_blank"}
 
 ### Quick Access Documents
-- [Research Abstract](dissertation-abstract.pdf)
-- [Qualitative Findings](qualitative-findings.pdf)
+- [Research Abstract](https://github.com/mslawsky/qualitative-dissertation-research/blob/main/dissertation-abstract.pdf){:target="_blank"}
+- [Qualitative Findings](https://github.com/mslawsky/qualitative-dissertation-research/blob/main/qualitative-findings.pdf){:target="_blank"}
 
 ## Thematic Analysis Framework
 
@@ -25,7 +25,7 @@ Direct Link: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">
 The thematic framework evolved through careful analysis of interview data, as visualized in these key artifacts:
 
 1. **Initial Framework**  
-![Original Piano Frame](piano-frame.png)
+![Original Piano Frame](piano-frame.jpg)
 *Initial conceptual framework for analysis*
 
 2. **Developed Thematic Structure**  
@@ -86,7 +86,7 @@ The complete coding structure is available in two detailed grid views:
 ## Repository Structure
 .
 ├── thematic-analysis.png      # Final thematic framework visualization
-├── piano-frame.png           # Initial conceptual framework
+├── piano-frame.jpg           # Initial conceptual framework
 ├── major-themes-grid.csv     # Primary themes analysis grid
 ├── sub-themes-grid.csv       # Detailed subthemes analysis
 ├── dissertation-abstract.pdf  # Research overview
@@ -119,12 +119,12 @@ The CSV files included in this repository demonstrate:
 
 ## Contact
 For research inquiries or collaboration opportunities, please reach out through:
-- <a href="https://www.linkedin.com/in/melissaslawsky/" target="_blank">LinkedIn Profile</a>
-- <a href="https://melissaslawsky.com/client-results/" target="_blank">Professional Website</a>
-- <a href="mailto:melissa@melissaslawsky.com">Email</a>
+- [LinkedIn Profile](https://www.linkedin.com/in/melissaslawsky/){:target="_blank"}
+- [Professional Website](https://melissaslawsky.com/client-results/){:target="_blank"}
+- [Email](mailto:melissa@melissaslawsky.com)
 
 ---
 © Melissa Slawsky 2024. All Rights Reserved.
 This repository contains proprietary research and analysis. All rights are reserved by the author. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.
 
-Published Dissertation URL: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">https://digitalcommons.usf.edu/etd/3352/</a>```
+Published Dissertation URL: [https://digitalcommons.usf.edu/etd/3352/](https://digitalcommons.usf.edu/etd/3352/){:target="_blank"}
