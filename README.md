@@ -1,6 +1,4 @@
 # qualitative-dissertation-research
-A qualitative study exploring the developmental journey of piano teachers in and outside of formal training
-# qualitative-dissertation-research
 A qualitative research study examining experiential learning and professional development through the lens of practice-based education.
 
 [![Qualitative Analysis](https://img.shields.io/badge/Research-Qualitative%20Analysis-blue)](https://github.com/your-username/your-repo)
@@ -12,10 +10,10 @@ A qualitative research study examining experiential learning and professional de
 This repository showcases an in-depth qualitative research study examining the intersection of experiential learning, professional development, and identity formation in practice-based professional learning. Through systematic analysis of 40 hours of interview data, this study reveals key insights into how professionals develop expertise through various learning modalities including apprenticeship, cognitive apprenticeship, and autonomous learning.
 
 ## Published Research
-📚 **Full Dissertation**: ["Learning to Teach: Examining the Knowledge and Preparation of Successful Piano Teachers"](https://digitalcommons.usf.edu/etd/3352/)  
+📚 **Full Dissertation**: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">Learning to Teach: Examining the Knowledge and Preparation of Successful Piano Teachers</a>  
 *University of South Florida, USF Scholar Commons*
 
-Direct Link: [https://digitalcommons.usf.edu/etd/3352/](https://digitalcommons.usf.edu/etd/3352/)
+Direct Link: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">https://digitalcommons.usf.edu/etd/3352/</a>
 
 ### Quick Access Documents
 - [Research Abstract](dissertation-abstract.pdf)
@@ -121,12 +119,12 @@ The CSV files included in this repository demonstrate:
 
 ## Contact
 For research inquiries or collaboration opportunities, please reach out through:
-- [LinkedIn Profile](your-linkedin-url)
-- [Professional Website](your-website-url)
-- [Email](mailto:your-email@domain.com)
+- <a href="https://www.linkedin.com/in/melissaslawsky/" target="_blank">LinkedIn Profile</a>
+- <a href="https://melissaslawsky.com/client-results/" target="_blank">Professional Website</a>
+- <a href="mailto:melissa@melissaslawsky.com">Email</a>
 
 ---
 © Melissa Slawsky 2024. All Rights Reserved.
 This repository contains proprietary research and analysis. All rights are reserved by the author. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.
 
-Published Dissertation URL: https://digitalcommons.usf.edu/etd/3352/```
+Published Dissertation URL: <a href="https://digitalcommons.usf.edu/etd/3352/" target="_blank">https://digitalcommons.usf.edu/etd/3352/</a>```
