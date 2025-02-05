@@ -1,9 +1,9 @@
-# qualitative-dissertation-research
-A qualitative research study examining experiential learning and professional development through the lens of practice-based education.
+# Qualitative Research for Program Enhancement
+A qualitative research study examining experiential learning and professional development through the lens of apprenticeship and experiential education.
 
 [![Qualitative Analysis](https://img.shields.io/badge/Research-Qualitative%20Analysis-blue)](https://github.com/mslawsky/qualitative-dissertation-research)
 [![NVivo](https://img.shields.io/badge/Tools-NVivo-green)](https://github.com/mslawsky/qualitative-dissertation-research)
-[![Interview Data](https://img.shields.io/badge/Data-40%20Hours%20Interviews-orange)](https://github.com/mslawsky/qualitative-dissertation-research)
+[![Interview Data](https://img.shields.io/badge/Data-20%20Hours%20Interviews-orange)](https://github.com/mslawsky/qualitative-dissertation-research)
 [![Dissertation](https://img.shields.io/badge/Publication-University%20of%20South%20Florida-red)](https://digitalcommons.usf.edu/etd/3352/)
 
 ## Research Overview
