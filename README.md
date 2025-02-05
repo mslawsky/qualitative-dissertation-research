@@ -10,7 +10,8 @@ A qualitative research study examining experiential learning and professional de
 This repository showcases an in-depth qualitative research study examining the intersection of experiential learning, professional development, and identity formation in practice-based professional learning. Through systematic analysis of 20 hours of interview data, this study reveals key insights into how professionals develop expertise through various learning modalities including apprenticeship, cognitive apprenticeship, and autonomous learning.
 
 ## Published Research
-📚 **Full Dissertation**: [Learning to Teach: Examining the Knowledge and Preparation of Successful Piano Teachers](https://digitalcommons.usf.edu/etd/3352/)  
+📚 **Full Dissertation**: [Transitioning from Student to Teacher in the Master-Apprentice Model of Piano Pedagogy: An Exploratory Study of Challenges, Solutions, Resources, Reflections, and Suggestions for the Future
+](https://digitalcommons.usf.edu/etd/3352/)  
 *University of South Florida, USF Scholar Commons*
 
 Direct Link: [https://digitalcommons.usf.edu/etd/3352/](https://digitalcommons.usf.edu/etd/3352/)
