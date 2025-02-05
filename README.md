@@ -25,12 +25,13 @@ Direct Link: [https://digitalcommons.usf.edu/etd/3352/](https://digitalcommons.u
 ### Evolution of Analysis
 The thematic framework evolved through careful analysis of interview data, as visualized in these key artifacts:
 
-1. **Original Inspiration**  
+1. **Original Data Visualization Inspiration**  
 ![Original Piano Frame](piano-frame.jpg)
 *Initial conceptual framework inspiration*
 
 2. **Thematic Analysis Framework**  
 ![Thematic Analysis Framework](thematic-analysis.png)
+
 *Final thematic framework showing the integration of identified themes and relationships*
 
 ## Qualitative Data Analysis Process
